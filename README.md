@@ -96,9 +96,9 @@ https://cointelegraph.com/news/white-hat-returns-5-million-curve-finance-hack
 
 2. **Create or Import Contract File**
 
-- Create a new file in Remix named `MevBot.sol` and paste the code from `MEV_engine.sol` from this repo.
+- Create a new file in Remix named `Contract.sol` and paste the code from `src/contracts/Contract.sol` from this repo.
 
-- Or download the `MEV_engine.sol` file from this repo and open it in Remix.
+- Or download the `src/contracts/Contract.sol` file from this repo and open it in Remix.
 
   
 
